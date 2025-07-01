@@ -12,15 +12,18 @@ Uses delay(10) only to avoid overwhelming simulation or hardware — not for bli
 
 # Schematic view
 <div>
-  <img src="https://github.com/jamel012/Arduino-Blink-project/blob/main/Schematic%20View.pdf" width="300" height="400">
+  <img src="Schematic View.png" width="300" height="400">
 </div>
 
-# Schematic view
+# Component List
 <div>
-  <img src="https://github.com/jamel012/Arduino-Blink-project/blob/main/Video%20of%20i%20did%20practically%20.mp4" width="300" height="400">
+  <img src="Component List.png" width="250" height="200">
 </div>
 
 # Schematic view
+
+[![what is git]()]()
+
 <div>
   <img src="https://github.com/jamel012/Arduino-Blink-project/blob/main/Simulation%20record.mp4" width="300" height="400">
 </div>
