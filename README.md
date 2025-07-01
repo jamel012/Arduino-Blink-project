@@ -10,9 +10,9 @@ When the button is released, the LED stops blinking.
 
 Uses delay(10) only to avoid overwhelming simulation or hardware — not for blinking.
 
-
+# Schematic viow
 <div>
-  <img src="" width="">
+  <img src="https://github.com/jamel012/Arduino-Blink-project/blob/main/Schematic%20View.pdf" width="300" height="400">
 </div>
 
 
