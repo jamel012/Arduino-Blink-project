@@ -20,17 +20,12 @@ Uses delay(10) only to avoid overwhelming simulation or hardware — not for bli
   <img src="Component List.png" width="250" height="200">
 </div>
 
-# Schematic view
+# Simulation video
 
-[![what is git]()]()
+https://github.com/user-attachments/assets/666b4a60-0973-42af-9cab-36358acd1388
 
-<div>
-  <img src="https://github.com/jamel012/Arduino-Blink-project/blob/main/Simulation%20record.mp4" width="300" height="400">
-</div>
+# Video of i did practically 
 
-# Schematic view
-<div>
-  <img src="https://github.com/jamel012/Arduino-Blink-project/blob/main/Component%20List.csv" width="300" height="400">
-</div>
+https://github.com/user-attachments/assets/85108e92-07ee-4b25-9224-c0340918d319
 
 Status: ✅ Complete
